@@ -1,0 +1,12 @@
+---
+title: "Gun Control Chi-Square"
+author: "Adrienne Hewitt"
+date: "November 14, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+I'm Adrienne and I'm adding some text ehre to see id Shellby can get this file
