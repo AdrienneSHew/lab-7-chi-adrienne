@@ -18,3 +18,15 @@ My turn to add a little something.
 
 Adrienne:
 Getting the gc_df.csv data, loading the tidyverse, and getting some summary counts
+```{r}
+library(tidyverse)
+gc_df<-read_csv("gc_df.csv")
+gc_df
+
+
+get_guns<-gc_df %>%
+  filter(gender!="NA", make_get_guns!="NA") %>% 
+  count(gender, make_get_guns)
+
+```
+
