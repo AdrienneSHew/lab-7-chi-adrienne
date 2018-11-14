@@ -14,3 +14,7 @@ I'm Adrienne and I'm adding some text ehre to see id Shellby can get this file.
 Beep Beep. I am updating text. 
 
 My turn to add a little something. 
+
+
+Adrienne:
+Getting the gc_df.csv data, loading the tidyverse, and getting some summary counts
